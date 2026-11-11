@@ -1,0 +1,7 @@
+/node_modules/
+/dist/
+/sources/
+/AGENTS.md
+.env
+.env.*
+*.local
